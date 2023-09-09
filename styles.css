@@ -1,0 +1,24 @@
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+html{
+  background-color: deeppink;
+}
+
+.catImg{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.catIcon{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.catIcon button{
+  font-size: 50px;
+  background-color: greenyellow;
+}
